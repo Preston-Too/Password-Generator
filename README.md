@@ -6,6 +6,7 @@
  Password-Generator is an application that gererates random password.
  
 ## BDD
+![Password-gen](https://user-images.githubusercontent.com/70573201/126838049-f51f5900-a111-4024-b71d-a203bd5d9f03.png)
 
 
 ## Installation / Setup instruction
